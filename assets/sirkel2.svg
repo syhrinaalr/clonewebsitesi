@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
+	<title>Group-5-2-1-svg</title>
+	<style>
+		.s0 { opacity: .3;fill: #4624af } 
+		.s1 { fill: #4624af } 
+	</style>
+	<path id="Layer" class="s0" d="m0 30c0-16.6 13.4-30 30-30c16.6 0 30 13.4 30 30c0 16.6-13.4 30-30 30c-16.6 0-30-13.4-30-30z" />
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m41 32c0 3.3-2.7 6-6 6c-3.3 0-6-2.7-6-6c0-3.3 2.7-6 6-6c3.3 0 6 2.7 6 6zm-14 0c0 2.2-1.8 4-4 4c-2.2 0-4-1.8-4-4c0-2.2 1.8-4 4-4c2.2 0 4 1.8 4 4zm-2 0c0-1.1-0.9-2-2-2c-1.1 0-2 0.9-2 2c0 1.1 0.9 2 2 2c1.1 0 2-0.9 2-2z" />
+</svg>
